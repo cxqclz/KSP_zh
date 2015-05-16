@@ -44,7 +44,7 @@
 
 ]]>
   </string>
-  <string id="1110"><![CDATA[Experience (]]></string>
+  <string id="1110"><![CDATA[经验 (]]></string>
   <string id="1135"><![CDATA[): ]]></string>
   <string id="1142"><![CDATA[Failed to locate protocrewMember, or Animator Component! unable to start expression AI]]></string>
   <string id="1316"><![CDATA[null]]></string>
@@ -662,7 +662,7 @@
   <string id="8552"><![CDATA[ExperienceSystem: Found ]]></string>
   <string id="8601"><![CDATA[ trait types]]></string>
   <string id="8626"><![CDATA[ effect types]]></string>
-  <string id="8653"><![CDATA[Tourist]]></string>
+  <string id="8653"><![CDATA[游客]]></string>
   <string id="8668"><![CDATA[驾驶员]]></string>
   <string id="8679"><![CDATA[工程师]]></string>
   <string id="8696"><![CDATA[科学家]]></string>
@@ -670,26 +670,26 @@
   <string id="8718"><![CDATA[ = ]]></string>
   <string id="8725"><![CDATA[F0]]></string>
   <string id="8730"><![CDATA[死亡]]></string>
-  <string id="8737"><![CDATA[CREW]]></string>
+  <string id="8737"><![CDATA[机组]]></string>
   <string id="8746"><![CDATA[APPLICANTS]]></string>
   <string id="8767"><![CDATA[RECRUIT]]></string>
   <string id="8782"><![CDATA[训练]]></string>
   <string id="8799"><![CDATA[飞行]]></string>
-  <string id="8812"><![CDATA[Suborbit]]></string>
-  <string id="8829"><![CDATA[Flyby]]></string>
+  <string id="8812"><![CDATA[低轨道]]></string>
+  <string id="8829"><![CDATA[飞过]]></string>
   <string id="8840"><![CDATA[处于轨道]]></string>
-  <string id="8851"><![CDATA[Train at]]></string>
-  <string id="8868"><![CDATA[Flight at]]></string>
-  <string id="8887"><![CDATA[Sub-orbit of]]></string>
-  <string id="8912"><![CDATA[Fly-by]]></string>
-  <string id="8925"><![CDATA[Orbit around]]></string>
+  <string id="8851"><![CDATA[在训练]]></string>
+  <string id="8868"><![CDATA[在飞行]]></string>
+  <string id="8887"><![CDATA[的低轨道]]></string>
+  <string id="8912"><![CDATA[飞过]]></string>
+  <string id="8925"><![CDATA[环绕着]]></string>
   <string id="8950"><![CDATA[PlantFlag]]></string>
-  <string id="8969"><![CDATA[Land]]></string>
-  <string id="8978"><![CDATA[Escape]]></string>
-  <string id="8991"><![CDATA[Plant flag on]]></string>
-  <string id="9018"><![CDATA[Land on]]></string>
-  <string id="9033"><![CDATA[Escape from]]></string>
-  <string id="9056"><![CDATA[Detonator]]></string>
+  <string id="8969"><![CDATA[登陆]]></string>
+  <string id="8978"><![CDATA[脱离]]></string>
+  <string id="8991"><![CDATA[插旗在]]></string>
+  <string id="9018"><![CDATA[着陆于]]></string>
+  <string id="9033"><![CDATA[脱离]]></string>
+  <string id="9056"><![CDATA[爆炸点]]></string>
   <string id="9075"><![CDATA[DetonatorFireball]]></string>
   <string id="9110"><![CDATA[DetonatorSmoke]]></string>
   <string id="9139"><![CDATA[DetonatorSparks]]></string>
@@ -698,7 +698,7 @@
   <string id="9234"><![CDATA[DetonatorLight]]></string>
   <string id="9263"><![CDATA[DetonatorForce]]></string>
   <string id="9292"><![CDATA[DetonatorHeatwave]]></string>
-  <string id="9327"><![CDATA[Particles/Additive]]></string>
+  <string id="9327"><![CDATA[粒子/添加剂]]></string>
   <string id="9364"><![CDATA[FireballA-Default]]></string>
   <string id="9399"><![CDATA[Detonator/Textures/Fireball]]></string>
   <string id="9454"><![CDATA[_TintColor]]></string>
@@ -756,15 +756,15 @@
   <string id="10929"><![CDATA[失败]]></string>
   <string id="10942"><![CDATA[空的]]></string>
   <string id="10953"><![CDATA[ - Empty Bar]]></string>
-  <string id="10978"><![CDATA[Sprite on object "]]></string>
+  <string id="10978"><![CDATA[器灵 "]]></string>
   <string id="11015"><![CDATA[" not assigned to a SpriteManager!]]></string>
-  <string id="11084"><![CDATA[Filled]]></string>
-  <string id="11097"><![CDATA[Empty]]></string>
+  <string id="11084"><![CDATA[被装满]]></string>
+  <string id="11097"><![CDATA[空的]]></string>
   <string id="11108"><![CDATA[ - Knob]]></string>
   <string id="11123"><![CDATA[Filled bar]]></string>
   <string id="11144"><![CDATA[Empty bar]]></string>
-  <string id="11163"><![CDATA[true]]></string>
-  <string id="11172"><![CDATA[false]]></string>
+  <string id="11163"><![CDATA[是]]></string>
+  <string id="11172"><![CDATA[否]]></string>
   <string id="11183"><![CDATA[是]]></string>
   <string id="11192"><![CDATA[否]]></string>
   <string id="11203"><![CDATA[From False]]></string>
